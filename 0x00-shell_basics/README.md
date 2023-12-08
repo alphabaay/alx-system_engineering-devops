@@ -1,2 +1,2 @@
 #!/bin/bash
-this file is for learning shell basic
+this file is shell basiv
